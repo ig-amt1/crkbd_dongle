@@ -7,7 +7,7 @@ inspiration https://github.com/englmaxi/zmk-config
     
 <div align="center">
   
-  ![corne-layout](https://github.com/ig-amt1/zmk-corne/blob/master/keymap-drawer/corne.svg)
+  ![corne-layout]((https://github.com/ig-amt1/crkbd_dongle/blob/main/keymap-drawer/corne.svg))
 
 </div>
 
